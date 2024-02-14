@@ -1,2 +1,1 @@
-# ArchVM
-Scripts and files for install Arch on a VM (QEMU)
+This is a personal bunch of files for automate my arch setup - Learning purpose
